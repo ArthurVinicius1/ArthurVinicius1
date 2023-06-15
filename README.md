@@ -1,17 +1,17 @@
 # <div>
   
   <h1 align="center">
-    Eai, Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/arthur-vinicius-santos/">Arthur Vinícius 😃️</a>
+   Hey, how's it going? I'm 
+    <a href="https://www.linkedin.com/in/arthur-vinicius-santos/">Arthur Vinícius </a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e amante do UI & UX DESIGN
+    I'm a Front-End Developer and a lover of UI & UX DESIGN.❤
     
   </p>
   
   <p align="center">
-    Sou um dev iniciante porém já tenho alguns progamas legais, seja bem vindo ao meu perfil! 😉️
+   I'm a beginner dev, but I already have some cool projects. Welcome to my profile! 😉️
   </p>
   
 </div>
@@ -29,9 +29,18 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
- 
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div><br>
+  </div>
+
+<div align="center" valign="top"><br>
+ <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white">
+ <img align="center" alt="CSS" height="30" width="130" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+ <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+ 
+  
+ 
+   </div>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-vinicius-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
